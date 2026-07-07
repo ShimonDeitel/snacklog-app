@@ -1,0 +1,29 @@
+{
+  "identifier" : "SnacklogStoreKitConfig",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "snacklog_pro",
+      "localizations" : [
+        {
+          "description" : "Unlimited stops, photo notes, and favorites list",
+          "displayName" : "Roadtrip Snack Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.snacklog.pro",
+      "referenceName" : "Snacklog Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_developerTeamID" : "W7Q885Q59C"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
